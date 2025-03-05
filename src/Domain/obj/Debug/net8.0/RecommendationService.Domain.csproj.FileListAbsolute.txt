@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/bin/Debug/net8.0/RecommendationService.Domain.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/bin/Debug/net8.0/RecommendationService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/bin/Debug/net8.0/RecommendationService.Domain.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/obj/Debug/net8.0/RecommendationService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/obj/Debug/net8.0/RecommendationService.Domain.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/obj/Debug/net8.0/RecommendationService.Domain.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/obj/Debug/net8.0/RecommendationService.Domain.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/obj/Debug/net8.0/RecommendationService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/obj/Debug/net8.0/refint/RecommendationService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/obj/Debug/net8.0/RecommendationService.Domain.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/RecommendationService/src/Domain/obj/Debug/net8.0/ref/RecommendationService.Domain.dll
